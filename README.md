@@ -193,7 +193,7 @@ void write_results_to_file(const char* filename, const float* results, int lengt
 7. 运行测试，确保程序正确性。
 8. 完成实训报告。
 
-希望这份详细的README文档能帮助你顺利实现该项目。
+
 
 ```c_cpp
 #ifndef SIGNAL_PROCESSING_H
