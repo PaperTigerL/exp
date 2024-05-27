@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "vsip.h": "c",
+        "signal_processing.h": "c"
+    }
+}
